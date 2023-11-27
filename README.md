@@ -24,9 +24,14 @@ Learning Rate Scheduling: Implementing an effective learning rate schedule for i
 
 # Model Evaluation:
 After training the model, the following performance metrics were achieved on the testing set:
+
 Accuracy:  51%
+
 Precision:  51%
+
 Recall:  48%
+
 F1 Score:  49%
+
 The confusion matrix provides additional insights into the model's performance, visualizing true positives, true negatives, false positives, and false negatives.
 The accuracy and precision are less due to the dataset being huge and the dataset used is from the TensorFlow library itself hence the accuracy is less which I will increase.
